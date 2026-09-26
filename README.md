@@ -17,3 +17,7 @@ g++ Number-Guessing-Game.cpp -o Number-Guessing-Game
 ```
 
 Example output:
+Enter your first guess: 45
+Your guess is so close higher numbers
+Enter your first guess: 50
+You won! You won! You used 2 attempts
