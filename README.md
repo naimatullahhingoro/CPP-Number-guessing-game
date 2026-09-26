@@ -11,3 +11,9 @@ A simple console-based number guessing game built in C++. The player tries to gu
 if/else, do-while loops, comparison operators, cin/cout
 
 ## How to Run
+```bash
+g++ Number-Guessing-Game.cpp -o Number-Guessing-Game
+./Number-Guessing-Game
+```
+
+Example output:
